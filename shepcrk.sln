@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShepherdCrook.Library", "ShepherdCrook.Library\ShepherdCrook.Library.csproj", "{5A50F415-12AB-4471-910F-29E598E61BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShepherdCrook.GeneralDriver", "ShepherdCrook.GeneralDriver\ShepherdCrook.GeneralDriver.csproj", "{0186F4D7-ECB2-4D7D-999B-8BE673FE373A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShepherdCrook.LearningSimpleFunctions", "LearningSimpleFunctions\ShepherdCrook.LearningSimpleFunctions.csproj", "{1C857DFD-8807-4BD0-8A5E-7FE8CCA1838B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShepherdCrook.UnitTests", "ShepherdCrook.UnitTests\ShepherdCrook.UnitTests.csproj", "{B23DE958-8B89-458F-BF3F-22710190076F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShepherdCrook.ZombieSurvival", "ShepherdCrook.ZombieSurvival\ShepherdCrook.ZombieSurvival.csproj", "{17F73025-8E34-4B8E-9595-965A30A9FB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A50F415-12AB-4471-910F-29E598E61BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A50F415-12AB-4471-910F-29E598E61BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A50F415-12AB-4471-910F-29E598E61BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A50F415-12AB-4471-910F-29E598E61BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0186F4D7-ECB2-4D7D-999B-8BE673FE373A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0186F4D7-ECB2-4D7D-999B-8BE673FE373A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0186F4D7-ECB2-4D7D-999B-8BE673FE373A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0186F4D7-ECB2-4D7D-999B-8BE673FE373A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C857DFD-8807-4BD0-8A5E-7FE8CCA1838B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C857DFD-8807-4BD0-8A5E-7FE8CCA1838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C857DFD-8807-4BD0-8A5E-7FE8CCA1838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C857DFD-8807-4BD0-8A5E-7FE8CCA1838B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23DE958-8B89-458F-BF3F-22710190076F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23DE958-8B89-458F-BF3F-22710190076F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23DE958-8B89-458F-BF3F-22710190076F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23DE958-8B89-458F-BF3F-22710190076F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F73025-8E34-4B8E-9595-965A30A9FB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F73025-8E34-4B8E-9595-965A30A9FB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F73025-8E34-4B8E-9595-965A30A9FB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F73025-8E34-4B8E-9595-965A30A9FB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
